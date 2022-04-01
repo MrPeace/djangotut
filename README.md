@@ -21,6 +21,7 @@
 #### Create the Polls app
 `python manage.py startapp polls`
 
-#### Add code to polls/views.py
-#### Edit mysite/urls.py
+#### Add code to polls/views.py - to return an HttpResponse()
+#### Edit mysite/urls.py - add this file to provide the route for polls
 
+### Part 
